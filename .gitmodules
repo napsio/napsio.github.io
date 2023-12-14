@@ -1,0 +1,3 @@
+[submodule "LPChar"]
+	path = LPChar
+	url = https://github.com/napsio/LPChar
